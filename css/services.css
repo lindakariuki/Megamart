@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: brown;
+}
+#Shipping{
+    color: rgb(168, 92, 239);
+    text-align: center;
+    text-decoration: wavy;
+}
+#paragraph{
+text-align: center;
+color: rgb(48, 209, 217);
+
+}
+.Once{
+font-style: italic;
+font-weight: 200;
+
+}
+button{
+    background-color: aquamarine;
+    color: black;
+    font-style: italic;
+}
+#VIP{
+    background-color: rgb(200, 168, 231);
+    margin: 80px;
+    padding: 40px;
+    border-radius:30px ;
+    color: white;
+}
+#VIP h3{
+    text-align: center;
+    font-size:40px ;
+}
+#VIP:hover{
+    background-color: rgb(186, 72, 206);
+    text-decoration-color: brown;
+}
+#suprises{
+    display: flex;
+    gap:30px ;
+    margin:30px ;
+}
+h4{
+    font: size 40px; ;
+    text-decoration: dotted;
+    text-align: center;
+}
+#delivery{
+    display: flex;
+}
+#courses{
+    display: flex;
+}
